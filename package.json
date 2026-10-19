@@ -1,0 +1,14 @@
+{
+  "name": "cp2-quiz",
+  "version": "1.0.0",
+  "private": true,
+  "description": "컴퓨터프로그래밍2 이해 확인 100문제 퀴즈 사이트",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "highlight.js": "11.11.1",
+    "marked": "15.0.12"
+  }
+}
